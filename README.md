@@ -18,12 +18,12 @@ The timer functionality allows users to set countdown timers for specific durati
 
 <h2> Technical Details </h2>
 
-#Programming Language: Python <br>
-#GUI Toolkit: Tkinter (Python binding to the Tk GUI toolkit)
+1. Programming Language: Python <br>
+2. GUI Toolkit: Tkinter (Python binding to the Tk GUI toolkit)
 
 <h2> Features </h2>
 
-#Real-Time Clock Update: The digital clock feature continuously updates the displayed time, ensuring accuracy. <br>
-#Accurate Stopwatch: The stopwatch feature provides precise timing with start, stop, and reset capabilities. <br>
-#Flexible Timer: Users can set countdown timers for various durations, receiving alerts upon completion. <br>
-#User-Friendly Interface: The application is designed with simplicity and ease of use in mind, making it accessible to users of all experience levels.
+1. Real-Time Clock Update: The digital clock feature continuously updates the displayed time, ensuring accuracy. <br>
+2. Accurate Stopwatch: The stopwatch feature provides precise timing with start, stop, and reset capabilities. <br>
+3. Flexible Timer: Users can set countdown timers for various durations, receiving alerts upon completion. <br>
+4. User-Friendly Interface: The application is designed with simplicity and ease of use in mind, making it accessible to users of all experience levels.
